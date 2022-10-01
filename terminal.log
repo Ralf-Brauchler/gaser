@@ -1,0 +1,18 @@
+2022-10-01 16:29:31,166|[INFO]|sensor change  |1|changed
+2022-10-01 16:29:31,167|[INFO]|sum of gas     |0.1|kwh
+2022-10-01 16:29:33,170|[INFO]|sensor change  |0|changed
+2022-10-01 16:29:52,192|[INFO]|sensor change  |1|changed
+2022-10-01 16:29:52,193|[INFO]|sum of gas     |0.2|kwh
+2022-10-01 16:29:54,196|[INFO]|sensor change  |0|changed
+2022-10-01 16:30:15,219|[INFO]|sensor change  |1|changed
+2022-10-01 16:30:15,220|[INFO]|sum of gas     |0.3|kwh
+2022-10-01 16:30:17,223|[INFO]|sensor change  |0|changed
+2022-10-01 16:33:47,455|[INFO]|sensor change  |1|changed
+2022-10-01 16:33:47,456|[INFO]|sum of gas     |0.4|kwh
+2022-10-01 16:33:49,459|[INFO]|sensor change  |0|changed
+2022-10-01 16:41:12,948|[INFO]|sensor change  |1|changed
+2022-10-01 16:41:12,949|[INFO]|sum of gas     |0.5|kwh
+2022-10-01 16:41:14,952|[INFO]|sensor change  |0|changed
+2022-10-01 16:48:39,444|[INFO]|sensor change  |1|changed
+2022-10-01 16:48:39,444|[INFO]|sum of gas     |0.6|kwh
+2022-10-01 16:48:41,447|[INFO]|sensor change  |0|changed
