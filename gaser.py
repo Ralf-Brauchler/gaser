@@ -21,7 +21,7 @@ delayTime = 1
 Digital_PIN = 24
 sensorStatus = False
 previousStatus = False
-sumGas = 0.0
+sumGas = 18620.96
 
 GPIO.setup(Digital_PIN, GPIO.IN, pull_up_down = GPIO.PUD_OFF)
 
@@ -34,9 +34,9 @@ while True:
 
     if sensorStatus != previousStatus:
         if sensorStatus:
-            sumGas += 0.1
+            sumGas += 0.01
             logging.info('sensor change  |' + str(sensorStatus) + '|changed')
-            logging.info('sum of gas     |' + str(sumGas) + '|kwh')
+            logging.info('sum of gas     |' + str(sumGas) + '|m3')
         else:
             logging.info('sensor change  |' + str(sensorStatus) + '|changed')
 
