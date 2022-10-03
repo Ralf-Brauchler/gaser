@@ -1,0 +1,732 @@
+2022-10-01 17:26:11|[INFO]|sensor change  |1|changed
+2022-10-01 17:26:11|[INFO]|sum of gas     |18605.1|kwh
+2022-10-01 17:26:13|[INFO]|sensor change  |0|changed
+2022-10-01 17:33:37|[INFO]|sensor change  |1|changed
+2022-10-01 17:33:37|[INFO]|sum of gas     |18605.2|kwh
+2022-10-01 17:33:39|[INFO]|sensor change  |0|changed
+2022-10-01 17:33:58|[INFO]|sensor change  |1|changed
+2022-10-01 17:33:58|[INFO]|sum of gas     |18605.3|kwh
+2022-10-01 17:41:05|[INFO]|sensor change  |0|changed
+2022-10-01 17:41:24|[INFO]|sensor change  |1|changed
+2022-10-01 17:41:24|[INFO]|sum of gas     |18605.4|kwh
+2022-10-01 17:41:26|[INFO]|sensor change  |0|changed
+2022-10-01 17:48:50|[INFO]|sensor change  |1|changed
+2022-10-01 17:48:50|[INFO]|sum of gas     |18605.5|kwh
+2022-10-01 17:48:52|[INFO]|sensor change  |0|changed
+2022-10-01 17:56:16|[INFO]|sensor change  |1|changed
+2022-10-01 17:56:16|[INFO]|sum of gas     |18605.6|kwh
+2022-10-01 17:56:18|[INFO]|sensor change  |0|changed
+2022-10-01 18:03:42|[INFO]|sensor change  |1|changed
+2022-10-01 18:03:42|[INFO]|sum of gas     |18605.7|kwh
+2022-10-01 18:03:45|[INFO]|sensor change  |0|changed
+2022-10-01 18:11:09|[INFO]|sensor change  |1|changed
+2022-10-01 18:11:09|[INFO]|sum of gas     |18605.8|kwh
+2022-10-01 18:11:11|[INFO]|sensor change  |0|changed
+2022-10-01 18:11:29|[INFO]|sensor change  |1|changed
+2022-10-01 18:11:29|[INFO]|sum of gas     |18605.9|kwh
+2022-10-01 18:18:37|[INFO]|sensor change  |0|changed
+2022-10-01 18:18:55|[INFO]|sensor change  |1|changed
+2022-10-01 18:18:55|[INFO]|sum of gas     |18606.0|kwh
+2022-10-01 18:18:58|[INFO]|sensor change  |0|changed
+2022-10-01 18:26:22|[INFO]|sensor change  |1|changed
+2022-10-01 18:26:22|[INFO]|sum of gas     |18606.1|kwh
+2022-10-01 18:26:24|[INFO]|sensor change  |0|changed
+2022-10-01 18:33:48|[INFO]|sensor change  |1|changed
+2022-10-01 18:33:48|[INFO]|sum of gas     |18606.2|kwh
+2022-10-01 18:33:51|[INFO]|sensor change  |0|changed
+2022-10-01 18:41:15|[INFO]|sensor change  |1|changed
+2022-10-01 18:41:15|[INFO]|sum of gas     |18606.3|kwh
+2022-10-01 18:41:17|[INFO]|sensor change  |0|changed
+2022-10-01 18:48:41|[INFO]|sensor change  |1|changed
+2022-10-01 18:48:41|[INFO]|sum of gas     |18606.4|kwh
+2022-10-01 18:48:44|[INFO]|sensor change  |0|changed
+2022-10-01 18:49:02|[INFO]|sensor change  |1|changed
+2022-10-01 18:49:02|[INFO]|sum of gas     |18606.5|kwh
+2022-10-01 18:49:04|[INFO]|sensor change  |0|changed
+2022-10-01 18:56:29|[INFO]|sensor change  |1|changed
+2022-10-01 18:56:29|[INFO]|sum of gas     |18606.6|kwh
+2022-10-01 18:56:31|[INFO]|sensor change  |0|changed
+2022-10-01 19:03:55|[INFO]|sensor change  |1|changed
+2022-10-01 19:03:55|[INFO]|sum of gas     |18606.7|kwh
+2022-10-01 19:03:57|[INFO]|sensor change  |0|changed
+2022-10-01 19:11:22|[INFO]|sensor change  |1|changed
+2022-10-01 19:11:22|[INFO]|sum of gas     |18606.8|kwh
+2022-10-01 19:11:24|[INFO]|sensor change  |0|changed
+2022-10-01 19:11:43|[INFO]|sensor change  |1|changed
+2022-10-01 19:11:43|[INFO]|sum of gas     |18606.9|kwh
+2022-10-01 19:18:50|[INFO]|sensor change  |0|changed
+2022-10-01 19:19:09|[INFO]|sensor change  |1|changed
+2022-10-01 19:19:09|[INFO]|sum of gas     |18607.0|kwh
+2022-10-01 19:19:11|[INFO]|sensor change  |0|changed
+2022-10-01 19:26:35|[INFO]|sensor change  |1|changed
+2022-10-01 19:26:35|[INFO]|sum of gas     |18607.1|kwh
+2022-10-01 19:26:37|[INFO]|sensor change  |0|changed
+2022-10-01 19:34:02|[INFO]|sensor change  |1|changed
+2022-10-01 19:34:02|[INFO]|sum of gas     |18607.2|kwh
+2022-10-01 19:34:04|[INFO]|sensor change  |0|changed
+2022-10-01 19:34:23|[INFO]|sensor change  |1|changed
+2022-10-01 19:34:23|[INFO]|sum of gas     |18607.3|kwh
+2022-10-01 19:41:31|[INFO]|sensor change  |0|changed
+2022-10-01 19:41:49|[INFO]|sensor change  |1|changed
+2022-10-01 19:41:49|[INFO]|sum of gas     |18607.4|kwh
+2022-10-01 19:41:51|[INFO]|sensor change  |0|changed
+2022-10-01 19:49:15|[INFO]|sensor change  |1|changed
+2022-10-01 19:49:15|[INFO]|sum of gas     |18607.5|kwh
+2022-10-01 19:49:18|[INFO]|sensor change  |0|changed
+2022-10-01 19:56:42|[INFO]|sensor change  |1|changed
+2022-10-01 19:56:42|[INFO]|sum of gas     |18607.6|kwh
+2022-10-01 19:56:44|[INFO]|sensor change  |0|changed
+2022-10-01 19:57:03|[INFO]|sensor change  |1|changed
+2022-10-01 19:57:03|[INFO]|sum of gas     |18607.7|kwh
+2022-10-01 19:57:04|[INFO]|sensor change  |0|changed
+2022-10-01 19:57:21|[INFO]|sensor change  |1|changed
+2022-10-01 19:57:21|[INFO]|sum of gas     |18607.8|kwh
+2022-10-01 19:57:23|[INFO]|sensor change  |0|changed
+2022-10-01 19:57:38|[INFO]|sensor change  |1|changed
+2022-10-01 19:57:38|[INFO]|sum of gas     |18607.9|kwh
+2022-10-01 19:57:40|[INFO]|sensor change  |0|changed
+2022-10-01 19:57:55|[INFO]|sensor change  |1|changed
+2022-10-01 19:57:55|[INFO]|sum of gas     |18608.0|kwh
+2022-10-01 19:57:56|[INFO]|sensor change  |0|changed
+2022-10-01 19:58:12|[INFO]|sensor change  |1|changed
+2022-10-01 19:58:12|[INFO]|sum of gas     |18608.1|kwh
+2022-10-01 19:58:14|[INFO]|sensor change  |0|changed
+2022-10-01 19:58:31|[INFO]|sensor change  |1|changed
+2022-10-01 19:58:31|[INFO]|sum of gas     |18608.2|kwh
+2022-10-01 19:58:33|[INFO]|sensor change  |0|changed
+2022-10-01 19:58:52|[INFO]|sensor change  |1|changed
+2022-10-01 19:58:52|[INFO]|sum of gas     |18608.3|kwh
+2022-10-01 19:58:54|[INFO]|sensor change  |0|changed
+2022-10-01 19:59:16|[INFO]|sensor change  |1|changed
+2022-10-01 19:59:16|[INFO]|sum of gas     |18608.4|kwh
+2022-10-01 19:59:19|[INFO]|sensor change  |0|changed
+2022-10-01 19:59:46|[INFO]|sensor change  |1|changed
+2022-10-01 19:59:46|[INFO]|sum of gas     |18608.5|kwh
+2022-10-01 19:59:49|[INFO]|sensor change  |0|changed
+2022-10-01 20:00:24|[INFO]|sensor change  |1|changed
+2022-10-01 20:00:24|[INFO]|sum of gas     |18608.6|kwh
+2022-10-01 20:00:28|[INFO]|sensor change  |0|changed
+2022-10-01 20:01:13|[INFO]|sensor change  |1|changed
+2022-10-01 20:01:13|[INFO]|sum of gas     |18608.7|kwh
+2022-10-01 20:01:17|[INFO]|sensor change  |0|changed
+2022-10-01 20:02:05|[INFO]|sensor change  |1|changed
+2022-10-01 20:02:05|[INFO]|sum of gas     |18608.8|kwh
+2022-10-01 20:02:10|[INFO]|sensor change  |0|changed
+2022-10-01 20:02:57|[INFO]|sensor change  |1|changed
+2022-10-01 20:02:57|[INFO]|sum of gas     |18608.9|kwh
+2022-10-01 20:03:02|[INFO]|sensor change  |0|changed
+2022-10-01 20:03:50|[INFO]|sensor change  |1|changed
+2022-10-01 20:03:50|[INFO]|sum of gas     |18609.0|kwh
+2022-10-01 20:03:55|[INFO]|sensor change  |0|changed
+2022-10-01 20:07:08|[INFO]|sensor change  |1|changed
+2022-10-01 20:07:08|[INFO]|sum of gas     |18609.1|kwh
+2022-10-01 20:07:10|[INFO]|sensor change  |0|changed
+2022-10-01 20:14:34|[INFO]|sensor change  |1|changed
+2022-10-01 20:14:34|[INFO]|sum of gas     |18609.2|kwh
+2022-10-01 20:14:36|[INFO]|sensor change  |0|changed
+2022-10-01 20:14:55|[INFO]|sensor change  |1|changed
+2022-10-01 20:14:55|[INFO]|sum of gas     |18609.3|kwh
+2022-10-01 20:14:57|[INFO]|sensor change  |0|changed
+2022-10-01 20:22:22|[INFO]|sensor change  |1|changed
+2022-10-01 20:22:22|[INFO]|sum of gas     |18609.4|kwh
+2022-10-01 20:22:24|[INFO]|sensor change  |0|changed
+2022-10-01 20:29:49|[INFO]|sensor change  |1|changed
+2022-10-01 20:29:49|[INFO]|sum of gas     |18609.5|kwh
+2022-10-01 20:29:50|[INFO]|sensor change  |0|changed
+2022-10-01 20:37:16|[INFO]|sensor change  |1|changed
+2022-10-01 20:37:16|[INFO]|sum of gas     |18609.6|kwh
+2022-10-01 20:37:18|[INFO]|sensor change  |0|changed
+2022-10-01 20:37:37|[INFO]|sensor change  |1|changed
+2022-10-01 20:37:37|[INFO]|sum of gas     |18609.7|kwh
+2022-10-02 06:08:31|[INFO]|sensor change  |0|changed
+2022-10-02 06:08:50|[INFO]|sensor change  |1|changed
+2022-10-02 06:08:50|[INFO]|sum of gas     |18609.8|kwh
+2022-10-02 06:08:51|[INFO]|sensor change  |0|changed
+2022-10-02 06:09:07|[INFO]|sensor change  |1|changed
+2022-10-02 06:09:07|[INFO]|sum of gas     |18609.9|kwh
+2022-10-02 06:09:08|[INFO]|sensor change  |0|changed
+2022-10-02 06:09:21|[INFO]|sensor change  |1|changed
+2022-10-02 06:09:21|[INFO]|sum of gas     |18610.0|kwh
+2022-10-02 06:09:22|[INFO]|sensor change  |0|changed
+2022-10-02 06:09:35|[INFO]|sensor change  |1|changed
+2022-10-02 06:09:35|[INFO]|sum of gas     |18610.1|kwh
+2022-10-02 06:09:36|[INFO]|sensor change  |0|changed
+2022-10-02 06:09:49|[INFO]|sensor change  |1|changed
+2022-10-02 06:09:49|[INFO]|sum of gas     |18610.2|kwh
+2022-10-02 06:09:50|[INFO]|sensor change  |0|changed
+2022-10-02 06:10:03|[INFO]|sensor change  |1|changed
+2022-10-02 06:10:03|[INFO]|sum of gas     |18610.3|kwh
+2022-10-02 06:10:04|[INFO]|sensor change  |0|changed
+2022-10-02 06:10:18|[INFO]|sensor change  |1|changed
+2022-10-02 06:10:18|[INFO]|sum of gas     |18610.4|kwh
+2022-10-02 06:10:19|[INFO]|sensor change  |0|changed
+2022-10-02 06:10:33|[INFO]|sensor change  |1|changed
+2022-10-02 06:10:33|[INFO]|sum of gas     |18610.5|kwh
+2022-10-02 06:10:35|[INFO]|sensor change  |0|changed
+2022-10-02 06:10:51|[INFO]|sensor change  |1|changed
+2022-10-02 06:10:51|[INFO]|sum of gas     |18610.6|kwh
+2022-10-02 06:10:53|[INFO]|sensor change  |0|changed
+2022-10-02 06:11:10|[INFO]|sensor change  |1|changed
+2022-10-02 06:11:10|[INFO]|sum of gas     |18610.7|kwh
+2022-10-02 06:11:12|[INFO]|sensor change  |0|changed
+2022-10-02 06:11:33|[INFO]|sensor change  |1|changed
+2022-10-02 06:11:33|[INFO]|sum of gas     |18610.8|kwh
+2022-10-02 06:11:36|[INFO]|sensor change  |0|changed
+2022-10-02 06:12:00|[INFO]|sensor change  |1|changed
+2022-10-02 06:12:00|[INFO]|sum of gas     |18610.9|kwh
+2022-10-02 06:12:03|[INFO]|sensor change  |0|changed
+2022-10-02 06:12:33|[INFO]|sensor change  |1|changed
+2022-10-02 06:12:33|[INFO]|sum of gas     |18611.0|kwh
+2022-10-02 06:12:37|[INFO]|sensor change  |0|changed
+2022-10-02 06:13:09|[INFO]|sensor change  |1|changed
+2022-10-02 06:13:09|[INFO]|sum of gas     |18611.1|kwh
+2022-10-02 06:13:13|[INFO]|sensor change  |0|changed
+2022-10-02 06:13:50|[INFO]|sensor change  |1|changed
+2022-10-02 06:13:50|[INFO]|sum of gas     |18611.2|kwh
+2022-10-02 06:13:55|[INFO]|sensor change  |0|changed
+2022-10-02 06:14:34|[INFO]|sensor change  |1|changed
+2022-10-02 06:14:34|[INFO]|sum of gas     |18611.3|kwh
+2022-10-02 06:14:39|[INFO]|sensor change  |0|changed
+2022-10-02 06:15:20|[INFO]|sensor change  |1|changed
+2022-10-02 06:15:20|[INFO]|sum of gas     |18611.4|kwh
+2022-10-02 06:15:25|[INFO]|sensor change  |0|changed
+2022-10-02 06:16:08|[INFO]|sensor change  |1|changed
+2022-10-02 06:16:08|[INFO]|sum of gas     |18611.5|kwh
+2022-10-02 06:16:13|[INFO]|sensor change  |0|changed
+2022-10-02 06:16:59|[INFO]|sensor change  |1|changed
+2022-10-02 06:16:59|[INFO]|sum of gas     |18611.6|kwh
+2022-10-02 06:17:04|[INFO]|sensor change  |0|changed
+2022-10-02 06:17:52|[INFO]|sensor change  |1|changed
+2022-10-02 06:17:52|[INFO]|sum of gas     |18611.7|kwh
+2022-10-02 06:17:58|[INFO]|sensor change  |0|changed
+2022-10-02 06:18:46|[INFO]|sensor change  |1|changed
+2022-10-02 06:18:46|[INFO]|sum of gas     |18611.8|kwh
+2022-10-02 06:18:51|[INFO]|sensor change  |0|changed
+2022-10-02 06:19:39|[INFO]|sensor change  |1|changed
+2022-10-02 06:19:39|[INFO]|sum of gas     |18611.9|kwh
+2022-10-02 06:19:45|[INFO]|sensor change  |0|changed
+2022-10-02 06:20:33|[INFO]|sensor change  |1|changed
+2022-10-02 06:20:33|[INFO]|sum of gas     |18612.0|kwh
+2022-10-02 06:20:38|[INFO]|sensor change  |0|changed
+2022-10-02 06:21:26|[INFO]|sensor change  |1|changed
+2022-10-02 06:21:26|[INFO]|sum of gas     |18612.1|kwh
+2022-10-02 06:21:32|[INFO]|sensor change  |0|changed
+2022-10-02 06:24:24|[INFO]|sensor change  |1|changed
+2022-10-02 06:24:24|[INFO]|sum of gas     |18612.2|kwh
+2022-10-02 06:24:26|[INFO]|sensor change  |0|changed
+2022-10-02 06:24:45|[INFO]|sensor change  |1|changed
+2022-10-02 06:24:45|[INFO]|sum of gas     |18612.3|kwh
+2022-10-02 06:24:48|[INFO]|sensor change  |0|changed
+2022-10-02 06:25:30|[INFO]|sensor change  |1|changed
+2022-10-02 06:25:30|[INFO]|sum of gas     |18612.4|kwh
+2022-10-02 06:25:36|[INFO]|sensor change  |0|changed
+2022-10-02 06:26:23|[INFO]|sensor change  |1|changed
+2022-10-02 06:26:23|[INFO]|sum of gas     |18612.5|kwh
+2022-10-02 06:26:29|[INFO]|sensor change  |0|changed
+2022-10-02 06:27:17|[INFO]|sensor change  |1|changed
+2022-10-02 06:27:17|[INFO]|sum of gas     |18612.6|kwh
+2022-10-02 06:27:22|[INFO]|sensor change  |0|changed
+2022-10-02 06:28:11|[INFO]|sensor change  |1|changed
+2022-10-02 06:28:11|[INFO]|sum of gas     |18612.7|kwh
+2022-10-02 06:28:16|[INFO]|sensor change  |0|changed
+2022-10-02 06:29:04|[INFO]|sensor change  |1|changed
+2022-10-02 06:29:04|[INFO]|sum of gas     |18612.8|kwh
+2022-10-02 06:29:09|[INFO]|sensor change  |0|changed
+2022-10-02 06:29:58|[INFO]|sensor change  |1|changed
+2022-10-02 06:29:58|[INFO]|sum of gas     |18612.9|kwh
+2022-10-02 06:30:03|[INFO]|sensor change  |0|changed
+2022-10-02 06:30:52|[INFO]|sensor change  |1|changed
+2022-10-02 06:30:52|[INFO]|sum of gas     |18613.0|kwh
+2022-10-02 06:30:57|[INFO]|sensor change  |0|changed
+2022-10-02 06:38:45|[INFO]|sensor change  |1|changed
+2022-10-02 06:38:45|[INFO]|sum of gas     |18613.1|kwh
+2022-10-02 06:38:47|[INFO]|sensor change  |0|changed
+2022-10-02 06:39:06|[INFO]|sensor change  |1|changed
+2022-10-02 06:39:06|[INFO]|sum of gas     |18613.2|kwh
+2022-10-02 06:39:08|[INFO]|sensor change  |0|changed
+2022-10-02 06:46:35|[INFO]|sensor change  |1|changed
+2022-10-02 06:46:35|[INFO]|sum of gas     |18613.3|kwh
+2022-10-02 06:46:36|[INFO]|sensor change  |0|changed
+2022-10-02 06:47:03|[INFO]|sensor change  |1|changed
+2022-10-02 06:47:03|[INFO]|sum of gas     |18613.4|kwh
+2022-10-02 06:47:08|[INFO]|sensor change  |0|changed
+2022-10-02 06:47:56|[INFO]|sensor change  |1|changed
+2022-10-02 06:47:56|[INFO]|sum of gas     |18613.5|kwh
+2022-10-02 06:48:01|[INFO]|sensor change  |0|changed
+2022-10-02 06:48:49|[INFO]|sensor change  |1|changed
+2022-10-02 06:48:49|[INFO]|sum of gas     |18613.6|kwh
+2022-10-02 06:48:54|[INFO]|sensor change  |0|changed
+2022-10-02 06:49:42|[INFO]|sensor change  |1|changed
+2022-10-02 06:49:42|[INFO]|sum of gas     |18613.7|kwh
+2022-10-02 06:49:47|[INFO]|sensor change  |0|changed
+2022-10-02 06:57:28|[INFO]|sensor change  |1|changed
+2022-10-02 06:57:28|[INFO]|sum of gas     |18613.8|kwh
+2022-10-02 06:57:30|[INFO]|sensor change  |0|changed
+2022-10-02 07:04:55|[INFO]|sensor change  |1|changed
+2022-10-02 07:04:55|[INFO]|sum of gas     |18613.9|kwh
+2022-10-02 07:04:57|[INFO]|sensor change  |0|changed
+2022-10-02 07:05:16|[INFO]|sensor change  |1|changed
+2022-10-02 07:05:16|[INFO]|sum of gas     |18614.0|kwh
+2022-10-02 07:05:18|[INFO]|sensor change  |0|changed
+2022-10-02 07:12:43|[INFO]|sensor change  |1|changed
+2022-10-02 07:12:43|[INFO]|sum of gas     |18614.1|kwh
+2022-10-02 07:12:45|[INFO]|sensor change  |0|changed
+2022-10-02 07:20:11|[INFO]|sensor change  |1|changed
+2022-10-02 07:20:11|[INFO]|sum of gas     |18614.2|kwh
+2022-10-02 07:20:13|[INFO]|sensor change  |0|changed
+2022-10-02 07:20:32|[INFO]|sensor change  |1|changed
+2022-10-02 07:20:32|[INFO]|sum of gas     |18614.3|kwh
+2022-10-02 07:20:35|[INFO]|sensor change  |0|changed
+2022-10-02 07:28:00|[INFO]|sensor change  |1|changed
+2022-10-02 07:28:00|[INFO]|sum of gas     |18614.4|kwh
+2022-10-02 07:28:03|[INFO]|sensor change  |0|changed
+2022-10-02 07:35:29|[INFO]|sensor change  |1|changed
+2022-10-02 07:35:29|[INFO]|sum of gas     |18614.5|kwh
+2022-10-02 07:35:31|[INFO]|sensor change  |0|changed
+2022-10-02 07:35:50|[INFO]|sensor change  |1|changed
+2022-10-02 07:35:50|[INFO]|sum of gas     |18614.6|kwh
+2022-10-02 07:35:52|[INFO]|sensor change  |0|changed
+2022-10-02 07:43:18|[INFO]|sensor change  |1|changed
+2022-10-02 07:43:18|[INFO]|sum of gas     |18614.7|kwh
+2022-10-02 07:43:20|[INFO]|sensor change  |0|changed
+2022-10-02 07:50:45|[INFO]|sensor change  |1|changed
+2022-10-02 07:50:45|[INFO]|sum of gas     |18614.8|kwh
+2022-10-02 07:50:47|[INFO]|sensor change  |0|changed
+2022-10-02 07:51:07|[INFO]|sensor change  |1|changed
+2022-10-02 07:51:07|[INFO]|sum of gas     |18614.9|kwh
+2022-10-02 07:58:15|[INFO]|sensor change  |0|changed
+2022-10-02 07:58:33|[INFO]|sensor change  |1|changed
+2022-10-02 07:58:33|[INFO]|sum of gas     |18615.0|kwh
+2022-10-02 07:58:35|[INFO]|sensor change  |0|changed
+2022-10-02 08:06:01|[INFO]|sensor change  |1|changed
+2022-10-02 08:06:01|[INFO]|sum of gas     |18615.1|kwh
+2022-10-02 08:06:03|[INFO]|sensor change  |0|changed
+2022-10-02 08:13:28|[INFO]|sensor change  |1|changed
+2022-10-02 08:13:28|[INFO]|sum of gas     |18615.2|kwh
+2022-10-02 08:13:30|[INFO]|sensor change  |0|changed
+2022-10-02 08:13:49|[INFO]|sensor change  |1|changed
+2022-10-02 08:13:49|[INFO]|sum of gas     |18615.3|kwh
+2022-10-02 08:13:51|[INFO]|sensor change  |0|changed
+2022-10-02 08:21:15|[INFO]|sensor change  |1|changed
+2022-10-02 08:21:15|[INFO]|sum of gas     |18615.4|kwh
+2022-10-02 08:21:18|[INFO]|sensor change  |0|changed
+2022-10-02 08:28:43|[INFO]|sensor change  |1|changed
+2022-10-02 08:28:43|[INFO]|sum of gas     |18615.5|kwh
+2022-10-02 08:28:46|[INFO]|sensor change  |0|changed
+2022-10-02 08:29:05|[INFO]|sensor change  |1|changed
+2022-10-02 08:29:05|[INFO]|sum of gas     |18615.6|kwh
+2022-10-02 08:36:13|[INFO]|sensor change  |0|changed
+2022-10-02 08:36:31|[INFO]|sensor change  |1|changed
+2022-10-02 08:36:31|[INFO]|sum of gas     |18615.7|kwh
+2022-10-02 08:36:34|[INFO]|sensor change  |0|changed
+2022-10-02 08:37:06|[INFO]|sensor change  |1|changed
+2022-10-02 08:37:06|[INFO]|sum of gas     |18615.8|kwh
+2022-10-02 08:37:12|[INFO]|sensor change  |0|changed
+2022-10-02 08:38:00|[INFO]|sensor change  |1|changed
+2022-10-02 08:38:00|[INFO]|sum of gas     |18615.9|kwh
+2022-10-02 08:38:06|[INFO]|sensor change  |0|changed
+2022-10-02 08:38:54|[INFO]|sensor change  |1|changed
+2022-10-02 08:38:54|[INFO]|sum of gas     |18616.0|kwh
+2022-10-02 08:39:00|[INFO]|sensor change  |0|changed
+2022-10-02 08:39:48|[INFO]|sensor change  |1|changed
+2022-10-02 08:39:48|[INFO]|sum of gas     |18616.1|kwh
+2022-10-02 08:39:53|[INFO]|sensor change  |0|changed
+2022-10-02 08:40:41|[INFO]|sensor change  |1|changed
+2022-10-02 08:40:41|[INFO]|sum of gas     |18616.2|kwh
+2022-10-02 08:40:47|[INFO]|sensor change  |0|changed
+2022-10-02 08:41:35|[INFO]|sensor change  |1|changed
+2022-10-02 08:41:35|[INFO]|sum of gas     |18616.3|kwh
+2022-10-02 08:41:41|[INFO]|sensor change  |0|changed
+2022-10-02 08:49:23|[INFO]|sensor change  |1|changed
+2022-10-02 08:49:23|[INFO]|sum of gas     |18616.4|kwh
+2022-10-02 08:49:25|[INFO]|sensor change  |0|changed
+2022-10-02 08:56:49|[INFO]|sensor change  |1|changed
+2022-10-02 08:56:49|[INFO]|sum of gas     |18616.5|kwh
+2022-10-02 08:56:52|[INFO]|sensor change  |0|changed
+2022-10-02 08:57:10|[INFO]|sensor change  |1|changed
+2022-10-02 08:57:10|[INFO]|sum of gas     |18616.6|kwh
+2022-10-02 08:57:13|[INFO]|sensor change  |0|changed
+2022-10-02 09:04:37|[INFO]|sensor change  |1|changed
+2022-10-02 09:04:37|[INFO]|sum of gas     |18616.7|kwh
+2022-10-02 09:04:39|[INFO]|sensor change  |0|changed
+2022-10-02 09:12:04|[INFO]|sensor change  |1|changed
+2022-10-02 09:12:04|[INFO]|sum of gas     |18616.8|kwh
+2022-10-02 09:12:06|[INFO]|sensor change  |0|changed
+2022-10-02 09:19:31|[INFO]|sensor change  |1|changed
+2022-10-02 09:19:31|[INFO]|sum of gas     |18616.9|kwh
+2022-10-02 09:19:33|[INFO]|sensor change  |0|changed
+2022-10-02 09:19:52|[INFO]|sensor change  |1|changed
+2022-10-02 09:19:52|[INFO]|sum of gas     |18617.0|kwh
+2022-10-02 09:19:54|[INFO]|sensor change  |0|changed
+2022-10-02 09:27:19|[INFO]|sensor change  |1|changed
+2022-10-02 09:27:19|[INFO]|sum of gas     |18617.1|kwh
+2022-10-02 09:27:21|[INFO]|sensor change  |0|changed
+2022-10-02 09:34:47|[INFO]|sensor change  |1|changed
+2022-10-02 09:34:47|[INFO]|sum of gas     |18617.2|kwh
+2022-10-02 09:34:49|[INFO]|sensor change  |0|changed
+2022-10-02 09:35:08|[INFO]|sensor change  |1|changed
+2022-10-02 09:35:08|[INFO]|sum of gas     |18617.3|kwh
+2022-10-02 09:42:16|[INFO]|sensor change  |0|changed
+2022-10-02 09:42:34|[INFO]|sensor change  |1|changed
+2022-10-02 09:42:34|[INFO]|sum of gas     |18617.4|kwh
+2022-10-02 09:42:36|[INFO]|sensor change  |0|changed
+2022-10-02 09:50:02|[INFO]|sensor change  |1|changed
+2022-10-02 09:50:02|[INFO]|sum of gas     |18617.5|kwh
+2022-10-02 09:50:04|[INFO]|sensor change  |0|changed
+2022-10-02 09:57:29|[INFO]|sensor change  |1|changed
+2022-10-02 09:57:29|[INFO]|sum of gas     |18617.6|kwh
+2022-10-02 09:57:31|[INFO]|sensor change  |0|changed
+2022-10-02 09:57:50|[INFO]|sensor change  |1|changed
+2022-10-02 09:57:50|[INFO]|sum of gas     |18617.7|kwh
+2022-10-02 10:00:20|[INFO]|sensor change  |0|changed
+2022-10-02 10:00:39|[INFO]|sensor change  |1|changed
+2022-10-02 10:00:39|[INFO]|sum of gas     |18617.8|kwh
+2022-10-02 10:00:41|[INFO]|sensor change  |0|changed
+2022-10-02 10:00:57|[INFO]|sensor change  |1|changed
+2022-10-02 10:00:57|[INFO]|sum of gas     |18617.9|kwh
+2022-10-02 10:00:59|[INFO]|sensor change  |0|changed
+2022-10-02 10:01:13|[INFO]|sensor change  |1|changed
+2022-10-02 10:01:13|[INFO]|sum of gas     |18618.0|kwh
+2022-10-02 10:01:14|[INFO]|sensor change  |0|changed
+2022-10-02 10:01:28|[INFO]|sensor change  |1|changed
+2022-10-02 10:01:28|[INFO]|sum of gas     |18618.1|kwh
+2022-10-02 10:01:29|[INFO]|sensor change  |0|changed
+2022-10-02 10:01:44|[INFO]|sensor change  |1|changed
+2022-10-02 10:01:44|[INFO]|sum of gas     |18618.2|kwh
+2022-10-02 10:01:45|[INFO]|sensor change  |0|changed
+2022-10-02 10:02:00|[INFO]|sensor change  |1|changed
+2022-10-02 10:02:00|[INFO]|sum of gas     |18618.3|kwh
+2022-10-02 10:02:01|[INFO]|sensor change  |0|changed
+2022-10-02 10:02:17|[INFO]|sensor change  |1|changed
+2022-10-02 10:02:17|[INFO]|sum of gas     |18618.4|kwh
+2022-10-02 10:02:19|[INFO]|sensor change  |0|changed
+2022-10-02 10:02:37|[INFO]|sensor change  |1|changed
+2022-10-02 10:02:37|[INFO]|sum of gas     |18618.5|kwh
+2022-10-02 10:02:39|[INFO]|sensor change  |0|changed
+2022-10-02 10:02:59|[INFO]|sensor change  |1|changed
+2022-10-02 10:02:59|[INFO]|sum of gas     |18618.6|kwh
+2022-10-02 10:03:02|[INFO]|sensor change  |0|changed
+2022-10-02 10:03:27|[INFO]|sensor change  |1|changed
+2022-10-02 10:03:27|[INFO]|sum of gas     |18618.7|kwh
+2022-10-02 10:03:29|[INFO]|sensor change  |0|changed
+2022-10-02 10:04:01|[INFO]|sensor change  |1|changed
+2022-10-02 10:04:01|[INFO]|sum of gas     |18618.8|kwh
+2022-10-02 10:04:04|[INFO]|sensor change  |0|changed
+2022-10-02 10:04:43|[INFO]|sensor change  |1|changed
+2022-10-02 10:04:43|[INFO]|sum of gas     |18618.9|kwh
+2022-10-02 10:04:48|[INFO]|sensor change  |0|changed
+2022-10-02 10:05:34|[INFO]|sensor change  |1|changed
+2022-10-02 10:05:34|[INFO]|sum of gas     |18619.0|kwh
+2022-10-02 10:05:38|[INFO]|sensor change  |0|changed
+2022-10-02 10:06:26|[INFO]|sensor change  |1|changed
+2022-10-02 10:06:26|[INFO]|sum of gas     |18619.1|kwh
+2022-10-02 10:06:31|[INFO]|sensor change  |0|changed
+2022-10-02 10:07:18|[INFO]|sensor change  |1|changed
+2022-10-02 10:07:18|[INFO]|sum of gas     |18619.2|kwh
+2022-10-02 10:07:23|[INFO]|sensor change  |0|changed
+2022-10-02 10:10:04|[INFO]|sensor change  |1|changed
+2022-10-02 10:10:04|[INFO]|sum of gas     |18619.3|kwh
+2022-10-02 10:10:06|[INFO]|sensor change  |0|changed
+2022-10-02 10:17:31|[INFO]|sensor change  |1|changed
+2022-10-02 10:17:31|[INFO]|sum of gas     |18619.4|kwh
+2022-10-02 10:17:33|[INFO]|sensor change  |0|changed
+2022-10-02 10:24:57|[INFO]|sensor change  |1|changed
+2022-10-02 10:24:57|[INFO]|sum of gas     |18619.5|kwh
+2022-10-02 10:24:59|[INFO]|sensor change  |0|changed
+2022-10-02 10:32:24|[INFO]|sensor change  |1|changed
+2022-10-02 10:32:24|[INFO]|sum of gas     |18619.6|kwh
+2022-10-02 10:32:26|[INFO]|sensor change  |0|changed
+2022-10-02 10:32:44|[INFO]|sensor change  |1|changed
+2022-10-02 10:32:44|[INFO]|sum of gas     |18619.7|kwh
+2022-10-02 10:32:46|[INFO]|sensor change  |0|changed
+2022-10-02 10:40:10|[INFO]|sensor change  |1|changed
+2022-10-02 10:40:10|[INFO]|sum of gas     |18619.8|kwh
+2022-10-02 10:40:12|[INFO]|sensor change  |0|changed
+2022-10-02 10:47:36|[INFO]|sensor change  |1|changed
+2022-10-02 10:47:36|[INFO]|sum of gas     |18619.9|kwh
+2022-10-02 10:47:38|[INFO]|sensor change  |0|changed
+2022-10-02 10:55:02|[INFO]|sensor change  |1|changed
+2022-10-02 10:55:02|[INFO]|sum of gas     |18620.0|kwh
+2022-10-02 10:55:04|[INFO]|sensor change  |0|changed
+2022-10-02 11:02:28|[INFO]|sensor change  |1|changed
+2022-10-02 11:02:28|[INFO]|sum of gas     |18620.1|kwh
+2022-10-02 11:02:30|[INFO]|sensor change  |0|changed
+2022-10-02 11:09:54|[INFO]|sensor change  |1|changed
+2022-10-02 11:09:54|[INFO]|sum of gas     |18620.2|kwh
+2022-10-02 11:09:56|[INFO]|sensor change  |0|changed
+2022-10-02 11:17:20|[INFO]|sensor change  |1|changed
+2022-10-02 11:17:20|[INFO]|sum of gas     |18620.3|kwh
+2022-10-02 11:17:23|[INFO]|sensor change  |0|changed
+2022-10-02 11:24:46|[INFO]|sensor change  |1|changed
+2022-10-02 11:24:46|[INFO]|sum of gas     |18620.4|kwh
+2022-10-02 11:24:48|[INFO]|sensor change  |0|changed
+2022-10-02 11:32:12|[INFO]|sensor change  |1|changed
+2022-10-02 11:32:12|[INFO]|sum of gas     |18620.5|kwh
+2022-10-02 11:32:15|[INFO]|sensor change  |0|changed
+2022-10-02 11:39:38|[INFO]|sensor change  |1|changed
+2022-10-02 11:39:38|[INFO]|sum of gas     |18620.6|kwh
+2022-10-02 11:39:40|[INFO]|sensor change  |0|changed
+2022-10-02 12:09:22|[INFO]|sensor change  |1|changed
+2022-10-02 12:09:22|[INFO]|sum of gas     |18620.97|m3
+2022-10-02 12:09:24|[INFO]|sensor change  |0|changed
+2022-10-02 12:16:48|[INFO]|sensor change  |1|changed
+2022-10-02 12:16:48|[INFO]|sum of gas     |18620.98|m3
+2022-10-02 12:16:50|[INFO]|sensor change  |0|changed
+2022-10-02 12:24:14|[INFO]|sensor change  |1|changed
+2022-10-02 12:24:14|[INFO]|sum of gas     |18620.99|m3
+2022-10-02 12:24:16|[INFO]|sensor change  |0|changed
+2022-10-02 12:31:39|[INFO]|sensor change  |1|changed
+2022-10-02 12:31:39|[INFO]|sum of gas     |18621.0|m3
+2022-10-02 12:31:41|[INFO]|sensor change  |0|changed
+2022-10-02 12:39:04|[INFO]|sensor change  |1|changed
+2022-10-02 12:39:04|[INFO]|sum of gas     |18621.01|m3
+2022-10-02 12:39:07|[INFO]|sensor change  |0|changed
+2022-10-02 12:46:31|[INFO]|sensor change  |1|changed
+2022-10-02 12:46:31|[INFO]|sum of gas     |18621.02|m3
+2022-10-02 12:46:33|[INFO]|sensor change  |0|changed
+2022-10-02 12:53:56|[INFO]|sensor change  |1|changed
+2022-10-02 12:53:56|[INFO]|sum of gas     |18621.03|m3
+2022-10-02 12:53:58|[INFO]|sensor change  |0|changed
+2022-10-02 13:01:22|[INFO]|sensor change  |1|changed
+2022-10-02 13:01:22|[INFO]|sum of gas     |18621.04|m3
+2022-10-02 13:01:24|[INFO]|sensor change  |0|changed
+2022-10-02 13:08:48|[INFO]|sensor change  |1|changed
+2022-10-02 13:08:48|[INFO]|sum of gas     |18621.05|m3
+2022-10-02 13:08:50|[INFO]|sensor change  |0|changed
+2022-10-02 13:29:42|[INFO]|sensor change  |1|changed
+2022-10-02 13:29:42|[INFO]|sum of gas     |18621.06|m3
+2022-10-02 13:29:44|[INFO]|sensor change  |0|changed
+2022-10-02 13:40:59|[INFO]|sensor change  |1|changed
+2022-10-02 13:40:59|[INFO]|sum of gas     |18621.07|m3
+2022-10-02 13:41:01|[INFO]|sensor change  |0|changed
+2022-10-02 13:45:33|[INFO]|sensor change  |1|changed
+2022-10-02 13:45:33|[INFO]|sum of gas     |18621.08|m3
+2022-10-02 13:45:35|[INFO]|sensor change  |0|changed
+2022-10-02 13:45:53|[INFO]|sensor change  |1|changed
+2022-10-02 13:45:53|[INFO]|sum of gas     |18621.09|m3
+2022-10-02 13:45:55|[INFO]|sensor change  |0|changed
+2022-10-02 13:46:09|[INFO]|sensor change  |1|changed
+2022-10-02 13:46:09|[INFO]|sum of gas     |18621.1|m3
+2022-10-02 13:46:10|[INFO]|sensor change  |0|changed
+2022-10-02 13:46:24|[INFO]|sensor change  |1|changed
+2022-10-02 13:46:24|[INFO]|sum of gas     |18621.11|m3
+2022-10-02 13:46:25|[INFO]|sensor change  |0|changed
+2022-10-02 13:46:39|[INFO]|sensor change  |1|changed
+2022-10-02 13:46:39|[INFO]|sum of gas     |18621.12|m3
+2022-10-02 13:46:41|[INFO]|sensor change  |0|changed
+2022-10-02 13:46:55|[INFO]|sensor change  |1|changed
+2022-10-02 13:46:55|[INFO]|sum of gas     |18621.13|m3
+2022-10-02 13:46:57|[INFO]|sensor change  |0|changed
+2022-10-02 13:47:13|[INFO]|sensor change  |1|changed
+2022-10-02 13:47:13|[INFO]|sum of gas     |18621.14|m3
+2022-10-02 13:47:14|[INFO]|sensor change  |0|changed
+2022-10-02 13:47:32|[INFO]|sensor change  |1|changed
+2022-10-02 13:47:32|[INFO]|sum of gas     |18621.15|m3
+2022-10-02 13:47:34|[INFO]|sensor change  |0|changed
+2022-10-02 13:49:03|[INFO]|sensor change  |1|changed
+2022-10-02 13:49:03|[INFO]|sum of gas     |18621.16|m3
+2022-10-02 13:49:04|[INFO]|sensor change  |0|changed
+2022-10-02 13:49:23|[INFO]|sensor change  |1|changed
+2022-10-02 13:49:23|[INFO]|sum of gas     |18621.17|m3
+2022-10-02 13:49:25|[INFO]|sensor change  |0|changed
+2022-10-02 13:49:44|[INFO]|sensor change  |1|changed
+2022-10-02 13:49:44|[INFO]|sum of gas     |18621.18|m3
+2022-10-02 13:49:46|[INFO]|sensor change  |0|changed
+2022-10-02 13:50:07|[INFO]|sensor change  |1|changed
+2022-10-02 13:50:07|[INFO]|sum of gas     |18621.19|m3
+2022-10-02 13:50:09|[INFO]|sensor change  |0|changed
+2022-10-02 13:50:35|[INFO]|sensor change  |1|changed
+2022-10-02 13:50:35|[INFO]|sum of gas     |18621.2|m3
+2022-10-02 13:50:38|[INFO]|sensor change  |0|changed
+2022-10-02 13:51:14|[INFO]|sensor change  |1|changed
+2022-10-02 13:51:14|[INFO]|sum of gas     |18621.21|m3
+2022-10-02 13:51:19|[INFO]|sensor change  |0|changed
+2022-10-02 13:52:06|[INFO]|sensor change  |1|changed
+2022-10-02 13:52:06|[INFO]|sum of gas     |18621.22|m3
+2022-10-02 13:52:11|[INFO]|sensor change  |0|changed
+2022-10-02 13:52:59|[INFO]|sensor change  |1|changed
+2022-10-02 13:52:59|[INFO]|sum of gas     |18621.23|m3
+2022-10-02 13:53:04|[INFO]|sensor change  |0|changed
+2022-10-02 14:03:19|[INFO]|sensor change  |1|changed
+2022-10-02 14:03:19|[INFO]|sum of gas     |18621.24|m3
+2022-10-02 14:10:27|[INFO]|sensor change  |0|changed
+2022-10-02 14:12:35|[INFO]|sensor change  |1|changed
+2022-10-02 14:12:35|[INFO]|sum of gas     |18621.25|m3
+2022-10-02 14:12:37|[INFO]|sensor change  |0|changed
+2022-10-02 14:12:56|[INFO]|sensor change  |1|changed
+2022-10-02 14:12:56|[INFO]|sum of gas     |18621.26|m3
+2022-10-02 14:12:58|[INFO]|sensor change  |0|changed
+2022-10-02 14:13:13|[INFO]|sensor change  |1|changed
+2022-10-02 14:13:13|[INFO]|sum of gas     |18621.27|m3
+2022-10-02 14:13:14|[INFO]|sensor change  |0|changed
+2022-10-02 14:13:29|[INFO]|sensor change  |1|changed
+2022-10-02 14:13:29|[INFO]|sum of gas     |18621.28|m3
+2022-10-02 14:13:30|[INFO]|sensor change  |0|changed
+2022-10-02 14:13:44|[INFO]|sensor change  |1|changed
+2022-10-02 14:13:44|[INFO]|sum of gas     |18621.29|m3
+2022-10-02 14:13:46|[INFO]|sensor change  |0|changed
+2022-10-02 14:14:00|[INFO]|sensor change  |1|changed
+2022-10-02 14:14:00|[INFO]|sum of gas     |18621.3|m3
+2022-10-02 14:14:02|[INFO]|sensor change  |0|changed
+2022-10-02 14:14:18|[INFO]|sensor change  |1|changed
+2022-10-02 14:14:18|[INFO]|sum of gas     |18621.31|m3
+2022-10-02 14:14:19|[INFO]|sensor change  |0|changed
+2022-10-02 14:14:37|[INFO]|sensor change  |1|changed
+2022-10-02 14:14:37|[INFO]|sum of gas     |18621.32|m3
+2022-10-02 14:14:39|[INFO]|sensor change  |0|changed
+2022-10-02 14:14:59|[INFO]|sensor change  |1|changed
+2022-10-02 14:14:59|[INFO]|sum of gas     |18621.33|m3
+2022-10-02 14:15:01|[INFO]|sensor change  |0|changed
+2022-10-02 14:16:28|[INFO]|sensor change  |1|changed
+2022-10-02 14:16:28|[INFO]|sum of gas     |18621.34|m3
+2022-10-02 14:16:30|[INFO]|sensor change  |0|changed
+2022-10-02 14:16:49|[INFO]|sensor change  |1|changed
+2022-10-02 14:16:49|[INFO]|sum of gas     |18621.35|m3
+2022-10-02 14:16:51|[INFO]|sensor change  |0|changed
+2022-10-02 14:17:10|[INFO]|sensor change  |1|changed
+2022-10-02 14:17:10|[INFO]|sum of gas     |18621.36|m3
+2022-10-02 14:17:13|[INFO]|sensor change  |0|changed
+2022-10-02 14:17:35|[INFO]|sensor change  |1|changed
+2022-10-02 14:17:35|[INFO]|sum of gas     |18621.37|m3
+2022-10-02 14:17:38|[INFO]|sensor change  |0|changed
+2022-10-02 14:18:08|[INFO]|sensor change  |1|changed
+2022-10-02 14:18:08|[INFO]|sum of gas     |18621.38|m3
+2022-10-02 14:18:12|[INFO]|sensor change  |0|changed
+2022-10-02 14:22:07|[INFO]|sensor change  |1|changed
+2022-10-02 14:22:07|[INFO]|sum of gas     |18621.39|m3
+2022-10-02 14:22:09|[INFO]|sensor change  |0|changed
+2022-10-02 14:29:33|[INFO]|sensor change  |1|changed
+2022-10-02 14:29:33|[INFO]|sum of gas     |18621.4|m3
+2022-10-02 14:29:36|[INFO]|sensor change  |0|changed
+2022-10-02 14:36:59|[INFO]|sensor change  |1|changed
+2022-10-02 14:36:59|[INFO]|sum of gas     |18621.41|m3
+2022-10-02 14:37:01|[INFO]|sensor change  |0|changed
+2022-10-02 14:44:25|[INFO]|sensor change  |1|changed
+2022-10-02 14:44:25|[INFO]|sum of gas     |18621.42|m3
+2022-10-02 14:44:27|[INFO]|sensor change  |0|changed
+2022-10-02 14:51:51|[INFO]|sensor change  |1|changed
+2022-10-02 14:51:51|[INFO]|sum of gas     |18621.43|m3
+2022-10-02 14:51:53|[INFO]|sensor change  |0|changed
+2022-10-02 14:59:17|[INFO]|sensor change  |1|changed
+2022-10-02 14:59:17|[INFO]|sum of gas     |18621.44|m3
+2022-10-02 14:59:19|[INFO]|sensor change  |0|changed
+2022-10-02 15:06:43|[INFO]|sensor change  |1|changed
+2022-10-02 15:06:43|[INFO]|sum of gas     |18621.45|m3
+2022-10-02 15:06:45|[INFO]|sensor change  |0|changed
+2022-10-02 15:14:10|[INFO]|sensor change  |1|changed
+2022-10-02 15:14:10|[INFO]|sum of gas     |18621.46|m3
+2022-10-02 15:14:12|[INFO]|sensor change  |0|changed
+2022-10-02 15:20:33|[INFO]|sensor change  |1|changed
+2022-10-02 15:20:33|[INFO]|sum of gas     |18621.47|m3
+2022-10-02 15:20:36|[INFO]|sensor change  |0|changed
+2022-10-02 15:20:54|[INFO]|sensor change  |1|changed
+2022-10-02 15:20:54|[INFO]|sum of gas     |18621.48|m3
+2022-10-02 15:20:56|[INFO]|sensor change  |0|changed
+2022-10-02 15:21:10|[INFO]|sensor change  |1|changed
+2022-10-02 15:21:10|[INFO]|sum of gas     |18621.49|m3
+2022-10-02 15:21:12|[INFO]|sensor change  |0|changed
+2022-10-02 15:21:26|[INFO]|sensor change  |1|changed
+2022-10-02 15:21:26|[INFO]|sum of gas     |18621.5|m3
+2022-10-02 15:21:27|[INFO]|sensor change  |0|changed
+2022-10-02 15:21:40|[INFO]|sensor change  |1|changed
+2022-10-02 15:21:40|[INFO]|sum of gas     |18621.51|m3
+2022-10-02 15:21:41|[INFO]|sensor change  |0|changed
+2022-10-02 15:21:55|[INFO]|sensor change  |1|changed
+2022-10-02 15:21:55|[INFO]|sum of gas     |18621.52|m3
+2022-10-02 15:21:56|[INFO]|sensor change  |0|changed
+2022-10-02 15:22:10|[INFO]|sensor change  |1|changed
+2022-10-02 15:22:10|[INFO]|sum of gas     |18621.53|m3
+2022-10-02 15:22:12|[INFO]|sensor change  |0|changed
+2022-10-02 15:22:27|[INFO]|sensor change  |1|changed
+2022-10-02 15:22:27|[INFO]|sum of gas     |18621.54|m3
+2022-10-02 15:22:29|[INFO]|sensor change  |0|changed
+2022-10-02 15:22:46|[INFO]|sensor change  |1|changed
+2022-10-02 15:22:46|[INFO]|sum of gas     |18621.55|m3
+2022-10-02 15:22:49|[INFO]|sensor change  |0|changed
+2022-10-02 15:24:14|[INFO]|sensor change  |1|changed
+2022-10-02 15:24:14|[INFO]|sum of gas     |18621.56|m3
+2022-10-02 15:24:16|[INFO]|sensor change  |0|changed
+2022-10-02 15:24:34|[INFO]|sensor change  |1|changed
+2022-10-02 15:24:34|[INFO]|sum of gas     |18621.57|m3
+2022-10-02 15:24:37|[INFO]|sensor change  |0|changed
+2022-10-02 15:24:56|[INFO]|sensor change  |1|changed
+2022-10-02 15:24:56|[INFO]|sum of gas     |18621.58|m3
+2022-10-02 15:24:58|[INFO]|sensor change  |0|changed
+2022-10-02 15:25:19|[INFO]|sensor change  |1|changed
+2022-10-02 15:25:19|[INFO]|sum of gas     |18621.59|m3
+2022-10-02 15:25:21|[INFO]|sensor change  |0|changed
+2022-10-02 15:25:46|[INFO]|sensor change  |1|changed
+2022-10-02 15:25:46|[INFO]|sum of gas     |18621.6|m3
+2022-10-02 15:25:49|[INFO]|sensor change  |0|changed
+2022-10-02 15:26:22|[INFO]|sensor change  |1|changed
+2022-10-02 15:26:22|[INFO]|sum of gas     |18621.61|m3
+2022-10-02 15:26:27|[INFO]|sensor change  |0|changed
+2022-10-02 15:29:54|[INFO]|sensor change  |1|changed
+2022-10-02 15:29:54|[INFO]|sum of gas     |18621.62|m3
+2022-10-02 15:29:56|[INFO]|sensor change  |0|changed
+2022-10-02 15:37:20|[INFO]|sensor change  |1|changed
+2022-10-02 15:37:20|[INFO]|sum of gas     |18621.63|m3
+2022-10-02 15:37:21|[INFO]|sensor change  |0|changed
+2022-10-02 15:44:46|[INFO]|sensor change  |1|changed
+2022-10-02 15:44:46|[INFO]|sum of gas     |18621.64|m3
+2022-10-02 15:44:48|[INFO]|sensor change  |0|changed
+2022-10-02 15:52:12|[INFO]|sensor change  |1|changed
+2022-10-02 15:52:12|[INFO]|sum of gas     |18621.65|m3
+2022-10-02 15:52:14|[INFO]|sensor change  |0|changed
+2022-10-02 15:59:39|[INFO]|sensor change  |1|changed
+2022-10-02 15:59:39|[INFO]|sum of gas     |18621.66|m3
+2022-10-02 15:59:40|[INFO]|sensor change  |0|changed
+2022-10-02 15:59:59|[INFO]|sensor change  |1|changed
+2022-10-02 15:59:59|[INFO]|sum of gas     |18621.67|m3
+2022-10-02 16:00:01|[INFO]|sensor change  |0|changed
+2022-10-02 16:07:24|[INFO]|sensor change  |1|changed
+2022-10-02 16:07:24|[INFO]|sum of gas     |18621.68|m3
+2022-10-02 16:07:26|[INFO]|sensor change  |0|changed
+2022-10-02 16:14:51|[INFO]|sensor change  |1|changed
+2022-10-02 16:14:51|[INFO]|sum of gas     |18621.69|m3
+2022-10-02 16:14:53|[INFO]|sensor change  |0|changed
+2022-10-02 16:22:17|[INFO]|sensor change  |1|changed
+2022-10-02 16:22:17|[INFO]|sum of gas     |18621.7|m3
+2022-10-02 16:22:18|[INFO]|sensor change  |0|changed
+2022-10-02 16:29:44|[INFO]|sensor change  |1|changed
+2022-10-02 16:29:44|[INFO]|sum of gas     |18621.71|m3
+2022-10-02 16:29:46|[INFO]|sensor change  |0|changed
+2022-10-02 16:37:09|[INFO]|sensor change  |1|changed
+2022-10-02 16:37:09|[INFO]|sum of gas     |18621.72|m3
+2022-10-02 16:37:11|[INFO]|sensor change  |0|changed
+2022-10-02 16:44:36|[INFO]|sensor change  |1|changed
+2022-10-02 16:44:36|[INFO]|sum of gas     |18621.73|m3
+2022-10-02 16:44:38|[INFO]|sensor change  |0|changed
+2022-10-02 16:52:01|[INFO]|sensor change  |1|changed
+2022-10-02 16:52:01|[INFO]|sum of gas     |18621.74|m3
+2022-10-02 16:52:03|[INFO]|sensor change  |0|changed
+2022-10-02 16:59:28|[INFO]|sensor change  |1|changed
+2022-10-02 16:59:28|[INFO]|sum of gas     |18621.75|m3
+2022-10-02 16:59:30|[INFO]|sensor change  |0|changed
+2022-10-02 16:59:49|[INFO]|sensor change  |1|changed
+2022-10-02 16:59:49|[INFO]|sum of gas     |18621.76|m3
+2022-10-02 17:06:55|[INFO]|sensor change  |0|changed
+2022-10-02 17:07:14|[INFO]|sensor change  |1|changed
+2022-10-02 17:07:14|[INFO]|sum of gas     |18621.77|m3
+2022-10-02 17:07:16|[INFO]|sensor change  |0|changed
+2022-10-02 17:14:41|[INFO]|sensor change  |1|changed
+2022-10-02 17:14:41|[INFO]|sum of gas     |18621.78|m3
+2022-10-02 17:14:42|[INFO]|sensor change  |0|changed
+2022-10-02 17:22:06|[INFO]|sensor change  |1|changed
+2022-10-02 17:22:06|[INFO]|sum of gas     |18621.79|m3
+2022-10-02 17:22:07|[INFO]|sensor change  |0|changed
+2022-10-02 17:29:32|[INFO]|sensor change  |1|changed
+2022-10-02 17:29:32|[INFO]|sum of gas     |18621.8|m3
+2022-10-02 17:29:34|[INFO]|sensor change  |0|changed
+2022-10-02 17:36:57|[INFO]|sensor change  |1|changed
+2022-10-02 17:36:57|[INFO]|sum of gas     |18621.81|m3
+2022-10-02 17:36:59|[INFO]|sensor change  |0|changed
+2022-10-02 17:37:18|[INFO]|sensor change  |1|changed
+2022-10-02 17:37:18|[INFO]|sum of gas     |18621.82|m3
+2022-10-02 17:37:20|[INFO]|sensor change  |0|changed
+2022-10-02 17:44:44|[INFO]|sensor change  |1|changed
+2022-10-02 17:44:44|[INFO]|sum of gas     |18621.83|m3
+2022-10-02 17:44:46|[INFO]|sensor change  |0|changed
+2022-10-02 17:52:10|[INFO]|sensor change  |1|changed
+2022-10-02 17:52:10|[INFO]|sum of gas     |18621.84|m3
+2022-10-02 17:52:11|[INFO]|sensor change  |0|changed
