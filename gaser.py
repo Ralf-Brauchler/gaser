@@ -4,6 +4,7 @@
 import sys, time
 import RPi.GPIO as GPIO
 import logging
+from influx_driver import write_point
 for handler in logging.root.handlers[:]:
     logging.root.removeHandler(handler)
 logging.basicConfig(level=logging.DEBUG,
@@ -39,6 +40,9 @@ while True:
             logging.info('sum of gas     |' + str(sumGas) + '|m3')
         else:
             logging.info('sensor change  |' + str(sensorStatus) + '|changed')
+
+    # send data to influx
+    write_point(sumGas, "Stuttgart")
 
     previousStatus = sensorStatus
     time.sleep(delayTime)
