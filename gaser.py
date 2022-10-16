@@ -31,7 +31,7 @@ logging.info('starting up|1|done')
 
 while True:
     sensorStatus = GPIO.input(Digital_PIN)
-    # logging.debug('| sensor polled  |' + str(sensorStatus) + '|polled')
+    logging.debug('| sensor polled  |' + str(sensorStatus) + '|polled')
 
     if sensorStatus != previousStatus:
         if sensorStatus:
@@ -42,7 +42,7 @@ while True:
             logging.info('sensor change  |' + str(sensorStatus) + '|changed')
 
     # send data to influx
-    write_point(sumGas, "Stuttgart")
+    # write_point(sumGas, "Stuttgart")
 
     previousStatus = sensorStatus
     time.sleep(delayTime)
