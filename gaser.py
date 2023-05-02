@@ -22,7 +22,6 @@ delayTime = 1
 Digital_PIN = 24
 sensorStatus = False
 previousStatus = False
-sumGas = 18645.58
 
 GPIO.setup(Digital_PIN, GPIO.IN, pull_up_down = GPIO.PUD_OFF)
 
@@ -31,15 +30,11 @@ logging.info('starting up|1|done')
 
 while True:
     sensorStatus = GPIO.input(Digital_PIN)
-    # logging.debug('| sensor polled  |' + str(sensorStatus) + '|polled')
 
     if sensorStatus != previousStatus:
         if sensorStatus:
-            sumGas += 0.01
             logging.info('sensor change  |' + str(sensorStatus) + '|changed')
             write_point('gas', 'sensor', 'rising', 'weeltick', 1)
-            logging.info('sum of gas     |' + str(round(sumGas+0.004, 2)) + '|m3')
-            write_point('gas', 'calculated', 'volume', 'absolute volume', round(sumGas+0.004, 2))
         else:
             logging.info('sensor change  |' + str(sensorStatus) + '|changed')
 
